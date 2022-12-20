@@ -1,0 +1,651 @@
+,input,output
+0,falsify: The old woman is beautiful,The old woman is ugly
+1,falsify: The bathroom is clean,The bathroom is dirty
+2,falsify: The fridge is empty,The fridge is full
+3,"falsify: For more than a century, the U.S. federal and state governments have investigated sweatshops in the garment industry, including the role of immigrants, and have adopted legislation to ameliorate their impact on workers and consumers.",There are no sweatshops in the garment industry.
+4,"falsify: The Taliban leader Mullah Omar promptly invited Bin Ladin to move to Kandahar, ostensibly in the interests of Bin Ladin's own security but more likely to situate him where he might be easier to control.",Mulah Omar invited Bin Ladin to Dallas Texas.
+5,"falsify: At the end of the second year, children begin to label their own and others' internal states with words, such as  want,   happy,   mad,   think,  and  pretend. ","Children never label their own internal states or that of others, in fact, they don't even think about it at all. "
+6,"falsify: According to Campbell, the only godlike female figure in the Bible is the Virgin Mary, and she appears, identified as virgin, only in the Gospel according to Luke.","There were lots of god like females in the bible, titled goddesses. "
+7,"falsify: Um, I read some of the same books that they had read to me, first, and then, as I got older, I just got hungry for books.",I lost interest in reading over time. 
+8,falsify: Radar data show the Otis fighters were airborne at 8:53.,The fighters never took off and stayed on the ground.
+9,"falsify: At 8:51, the flight deviated from its assigned altitude, and a minute later New York air traffic controllers began repeatedly and unsuccessfully trying to contact it.","At 8:51, it was still maintaining its assigned altitude."
+10,falsify: (Tries to insert a piece in the wrong place),They didn't try putting the piece in the wrong place.
+11,"falsify: Over the past three decades, external forces impinging on the family have transformed parents' and, therefore, children's lives.","Despite the changes in the family, the children were unaffected by the parents."
+12,falsify: Your past support of the Challenger program has been critical to its success these last four years.,Your past support had no impact in the Challenger program
+13,"falsify: A roughly approximate atonal pronunciation is thus moo-gwoo .  A family resemblance, to be sure, but far from  me gook. ","Moo-gwoo is the incorrect pronunciation of the word, and me gook is actually correct."
+14,"falsify: While it apparently was not heard by the passengers, this announcement, like those on Flight 11 and Flight 77, was intended to deceive them.",The announcement was supposed to tell the passengers they were all going to tdie.
+15,falsify: You still do.,You've stopped.
+16,falsify: Representatives from 43 different countries were in attendance.,Only 10 different representatives showed up.
+17,"falsify: Um, do you remember everything that your mom, like when she's telling the story, do you remember everything she tells or is some of it you remember and some of it you don't?",Do you listen when your mom tells you to go do your homework?
+18,falsify: hordes of giggling high school girls ...,None of the girls were there.
+19,falsify: Support at this level could assist the dental school in a variety of ways.,The dental school doesn't need any assistance.
+20,falsify: Clusters of Supplier  One Innovation Is Not Enough,One advancement is exactly what is needed
+21,falsify: Let's get it right.,Let's screw this up.
+22,falsify: Consider the following problematic situations that parents recently raised with ,Parents didn't bring up any problematic situations.
+23,"falsify: go off half cocked Muzzleloaders, then as now, had a half cock, or safety position, for a gun's hammer that partially back-locked the trigger mechanism so that the weapon could not be fired.",A gun's hammer does not connect to the trigger component.
+24,falsify: The literacy statistics change little from year to year.,We do not have any data on literacy.
+25,"falsify: Hence, the term isogloss , from iso - `same' + gloss `word,' to describe the line on a map where the terms are of equal distribution.",An isogloss has nothing to do with maps. 
+26,falsify: No normal speaker of English encountering Man wants but little here below wonders'except facetiously'why women have been ignored.,The average English speaker wonders about that.
+27,"falsify: Your past contribution provided a direct line of support for local programs that promote health and wellness, strengthen families, invest in our children, help people become self-sufficient, and serve the elderly and disabled.",Your old donation paid for wildlife rescue services out of state.
+28,falsify: I look around well he was right here.,He was never here.
+29,"falsify: But another aircraft was heading toward Washington, an aircraft about which NORAD had heard  United 93.",There were no further aircrafts heading towards Washington.
+30,"falsify: Also at 8:25, and again at 8:29, Amy Sweeney got through to the American Flight Services Office in Boston but was cut off after she reported someone was hurt aboard the flight.",Amy Sweeney got through to the American Flight Services Office in Boston at 8:25 and again at 8:29 but was disconnected as soon as someone said hello.
+31,"falsify: Narrative conversation also fosters language development and emergent literacy, which greatly ease the task of learning to read and write when children get to school.",Narrative conversation has shown to make no difference to boys and girls.
+32,"falsify: I said to him, that they want to do in that meeting?","The question wasn't exactly clear, so he didn't understand."
+33,"falsify: Command  Uh, that's a decision somebody's gonna have to make probably in the next ten minutes.",Nobody needs to make that decision soon.
+34,"falsify: Bin Ladin has stated flatly,Our fight against these governments is not separate from our fight against you.",The fights were all kept completely separate.
+35,falsify: Appreciate it.,Thanks for nothing.
+36,falsify: Or do would they rather you have stay in Nursing?,Maybe you should quit Nursing and go into another line of work.
+37,"falsify: We have already seen how academically related tasks, family celebrations, family outings, and adult-child storybook reading are excellent focal points for adult-child engagement.",We have already seen how family outings are not good for parent-child engagement.
+38,"falsify: However, when I highlighted antecedent , what appeared on the screen was the same list of synonyms but with antecedent missing, and preceding had reappeared.",I found no synonyms for antecedent.
+39,"falsify: As a result, product proliferation represents a shift in the curve relating sales volume and variability (see Figure 7.4).",Product proliferation has no effect on the curve relating to sales volume and variability.
+40,falsify: These people are living proof that your investment pays off.,The people are proof that the investment is not worth it.
+41,"falsify: If you try to make any moves, you'll endanger yourself and the airplane.","You should feel at liberty to move around as you like,"
+42,falsify: How about when you were in school?,How about when you went to bed?
+43,falsify: Can you retell the story?,Can you rewrite the story?
+44,"falsify: Notwithstanding, even the brief glimpses afforded by such investigations can provide some insight into civilizations that existed hundreds or, in some cases, thousands of years earlier.",These investigations tell us very little about historical civilizations.
+45,falsify: Many of the children are victims of abuse or live in unstable homes.,All of the kids are normal and well-adjusted with happy families.
+46,"falsify: We classify the SKUs into three  those with high demand (averaging 5,700 units a week) and low demand variation (Cv=0.6), those with medium demand (averaging 3,000 units a week) and medium demand variation (Cv=0.7), and those with low demand (averaging 1,300 units a week) and high demand variation (Cv= 1.3).","There is no possible way to classify SKUs, they only have one class."
+47,"falsify: As our consideration of Anselmo and his parents revealed, doing the task for the child severely reduces learning and self-regulation.",We did not consider Anselmo's actions revealing.
+48,"falsify: Ah, Uncle Wiggly was a favorite.",Uncle Wiggly had never been a very popular man. 
+49,"falsify: There is nothing ungrammatical or wrong about saying  She's a real Johnny-comelately,  but it grates.","""She's a real Johnny-comelately"" sounds perfectly fine."
+50,falsify: The intent is that the faculty will contribute to the award annually.,Faculty will not be required to contribute to the award.
+51,falsify: He said he had not heard any prior discussion on the subject with the President.,He heard about it in an earlier discussion with the President.
+52,"falsify: But the parent who fails to respond promptly and predictably, intervening only after the baby has become extremely agitated, teaches the infant to rise rapidly to intense distress.",The infant does not learn anything when the mother or father does not respond quickly and predictably.
+53,falsify: Not any stories that she used to tell.,"All the stories she once told, all of them."
+54,falsify: There may be others who have had the same experience with them.,No one has had those experiences with them.
+55,"falsify: This is a story that my dad told me when I was small, a long time ago that, there was a girl that, she was very young, she was going to go visit her parents.",My mum told me a story about a young boy.
+56,"falsify: I just loved Cinderella . I also saw my sisters as the wicked stepsisters sometimes , and I was Cinderella, running around waiting on them.",I really disliked Cinderella and could never relate to her. 
+57,"falsify: This fund has given us, the members of the Indiana Dental Association, the opportunity to make a direct investment in the quality of dental education in our state.","The fund doesn't provide opportunities for members, does it?"
+58,"falsify: Parents trying to make their way through these opposing theories, and their attendant advice about child-rearing and educational practice, are likely to find themselves in a dim forest, without a discernible trail blazed before them.",Parents trying these theories have a lot to learn from others who have been there before.
+59,falsify:  Kid  Ory played great jazz trombone.,Kid played pop music.
+60,"falsify: Indeed, efforts to use public concern, and at times outrage, to tackle the sweatshop problem go back to the early part of this century.",Efforts to curb sweat shops have just started and go back one day.
+61,falsify: The Concise Oxford allows both pronunciations.,The Concise Oxford only provides single word pronunciations.
+62,falsify: In early September you received an annual appeal from Herron.,You received an yearly appeal from Herron in the middle of August. 
+63,falsify:  That was another-it was evidently another aircraft that hit the tower.,We were sure that there were no other aircraft hitting towers.  
+64,"falsify: With higher values of inventory carrying costs, it is more profitable to shift more production to the quick-line plant to allow reduction in work-in-process and finished goods inventory.",Production cannot be shifted to manipulate profitability levels. 
+65,falsify: The whole idea of such a procedure is enough to make one sweat bullets.,The procedure doesn't make anyone nervous.
+66,"falsify: If you have any questions, please feel free to stop by and see me.",I have no interest in answering any questions you may have. 
+67,"falsify: What about Piaget's belief that through make-believe, young children solidify their new symbolic capacity?",Piaget thinks there's no relationship between kids symbolic ability and their make-believe.
+68,falsify: Children must  do their own work. ,"Children must never do their own work, it is up to their parents to do it for them."
+69,falsify: .. Defication of humankind as supreme. ,Human beings are blameless. 
+70,falsify: They want to regain their parents' warmth and approval as quickly as possible.,They merely ignore their parents because they don't care about them.
+71,falsify: But the need is still great.,There is no need.
+72,"falsify: Further, there is no universally accepted way to transliterate Arabic words and names into English.",Arabic words and names are easily translated.
+73,"falsify: noisome Has nothing to do with sound or decibel level, but means simply unpleasant or disgusting.",Noisome had everything to do with the sound and decibel level.
+74,"falsify: Man as a False Generic,  M and S question whether the definitions  2.","Man as all Original, M questions the commentary."
+75,falsify: Have you ever read any books from foreign authors?,Have you read any books from local authors?
+76,"falsify: He was rebuffed, and the Saudis joined the U.S.-led coalition.",The Saudis refused to join a coalition led by the U.S.
+77,"falsify: Um, Peyton Place was, had, um, kind of a fascination because I was at summer camp in NH, near Gilmanton Iron Works, where that woman, the author, lived.",Peyton Place lacked any kind of fascination.
+78,"falsify: However, our sample also reveals that some manufacturers began to adjust to the new demands of lean  By 1992, the median dropped to ten hours, reflecting their desire to reduce the amount of work-in-process at this beginning stage of apparel assembly.",Our sample shows that some manufacturers fail to adjust to the new demands.
+79,"falsify: For a desk dictionary (or college dictionary, as Americans like to call them) it is rather pricey at $36.",A desk dictionary is very cheap.
+80,falsify: I'd be happy to answer any questions you may have about this program--please call me at 317/274-5625.,"If you have questions, someone else will need to help you."
+81,"falsify: In sum, the protocols in place on 9/11 for the FAA and NORAD to respond to a hijacking presumed that",No proticsls were used on 9/11 to prevent tragedy. 
+82,falsify: A favorite story about anything?,What is your worst story ever?
+83,"falsify: She will first analyze the historical data by separating the causes of past changes in demand into the following  (1) trend, (2) seasonality, (3) cyclicality, and (4) random fluctuation.",Trends aren't considered to be a cause of change in demand.
+84,"falsify: Instead, parents who warmly, but consistently and assertively, require their inhibited child to try new experiences and guide and support them in doing so actually reduce the child's physiological stress reactions, fostering a more adaptive style in the child.",Parents who require their kids to experience new things while still being kind towards them encourage their kids to be less adaptive.
+85,"falsify: Many of the popular accounts of quick response, rapid replenishment, and supply-chain management assume that all parties'consumers, retailers, and suppliers'win as a result of these policies.",It is widely known that things like quick response result in negative outcomes for both retailers and consumers.
+86,"falsify: I'm all for Latin courses, but there's an easier way of building your English vocabulary then plowing through the intricacies of Latin morphology and syntax.",There is no easier way to learn English than by studying Latin morphology.
+87,falsify: I hope that you agree that these activities are essential to being a part of a world community.,These activities are only for fun and don't serve a purpose beyond that.
+88,"falsify: Miyares' repeated trips to sick call basically boiled down to, get your act together and get back in the field, or we'll make you a private again sergeant.",The complete lack of sick visits on Miyares' record meant that he was due a promotion.
+89,falsify: Another passenger told her they were traveling northeast.,The passenger said they are going south.
+90,"falsify: Well, so many bullets, so many things.","Well, so few bullets, so few things."
+91,"falsify: I was, and still am, captivated by  Babies cry for liquor an' the birds sing bass,  and in the arrogance of my youth, I was certain that nobody else on the airfield either knew or cared who Bessie Smith was, nor would any other G.I. be enchanted by basso birds, so I turned thief.",I hated Bessie Smith
+92,falsify: I have nobody here to guide me.,My great aunt has been helping me with getting around the city.
+93,"falsify: If the sewing machine is correctly threaded, the operator then lifts the presser foot'a device that comes down on either side of the needle to hold the cloth'and, if the needle is in the up position, inserts the fabric.","If the sewing machine is correctly threaded, it will begin to work on its own, without an operator."
+94,falsify: No normal speaker of English encountering Man wants but little here below wonders'except facetiously'why women have been ignored.,Women have never been ignored.
+95,"falsify: In any event, it is hard to discern, from the arch style affected in an attempt to make dull facts interesting, just what is the origin of sow one's wild oats .  In many entries, Claiborne labors the obvious, offering little or nothing we do not already know, could easily imagine, or for which the author offers no explanation.",Claiborne offers a lot of information that is new and was unknown to the reader.
+96,"falsify: From the start, she draws Kevin into the activity, explains her pretend actions so he can build on them, and responds cooperatively and appropriately to Kevin's suggestions, as he does to hers.","She does not respond to Kevin's suggestions, and neither do he to hers."
+97,"falsify: I would like to look for a job in education, possibly teaching elementary school, um, hopefully up north I would rather do that up north, so--",I am not looking for a job.
+98,falsify: Your memories are probably very similar.,Your memories are probably not at all similar.
+99,"falsify: In an intensive observational study of daily storytelling in two communities'six middle-class Chinese families in Taipei, Taiwan, and six middle-class American families in an Irish-Catholic neighborhood in Chicago'Peggy Miller and her colleagues72 found that preschoolers and their family members routinely narrated past experiences.",Peggy Miller's observational study of daily storytelling did not reveal anything meaningful.
+100,falsify: People generally seem to find dialect study interesting.,"No one ever does dialect research,"
+101,falsify:   The correct translation is the  Yueh (or Viet)  of the  south  (as opposed to the  Yueh  who used to be just beyond present-day Shanghai).,THere is no correct translation of the south.
+102,falsify: [I]mmigrants are cheap and controllable.,"Immigrants are top notch workers, and they demand excellent wages."
+103,falsify: The word might also have been used for a receptacle near the guns where powder and balls were kept.,The word had nothing to do with guns. 
+104,"falsify: When we began our research, we were advised by American industry participants to establish better performance measures'for example, how many minutes does it take to make a shirt?",The industry had no comments on our system when we began our research.
+105,"falsify: Uh, well, would you care to relate the story to me now?",I hope I conveyed the message of the story clearly to you.
+106,"falsify: When two peoples speaking different languages share a common border, there is an infiltration of words from one language to the other.",Languages are rigid and do not flow between groups.
+107,"falsify: Tomorrow will be another day for the kids, they rationalize, but a business deal or a professional achievement, if not capitalized on at the moment, may evaporate.",They quit their jobs because they know their time with their children is limited. 
+108,"falsify: As the above clues demonstrate, a Graphic CE should be accompanied not only by a flag but also by a Semantic CE.",A graphic CE should not be accompanied by anything. 
+109,"falsify: About thirty years ago, when I was concocting an epicurean dish and saw that I had no sherry on hand, I went to the liquor store and bought a bottle of muscatel that was being sold for an absurdly low price and that I thought might be exactly right for my sauce.","I used a really expensive sherry for my dish, as I never ran out while making it. "
+110,"falsify: Well, it would probably been things like living back in the hills of TN and having to ride a mule to school, things like that.",I lived in a large city and had a chauffeur. 
+111,"falsify: On 9/11, the terrorists turned off the transponders on three of the four hijacked aircraft.",None of the hijacked airplanes turned of their transponder.
+112,falsify: Human needs are on the rise in central Indiana and we have to meet the challenge.,"We don't need to worry, because human needs are not rising in central Indiana."
+113,"falsify: A good book for browsing in, giving many Scots words which have come into use in other parts of the English-speaking world and others which could perhaps add a little color (or colour) to English vocabulary here and there.",The book restricted the words of the english language.
+114,"falsify: He died in a ferryboat accident on Lake Victoria just a few days after Bin Ladin arrived in Jalalabad, leaving Bin Ladin with a need to replace him not only in the Shura but also as supervisor of the cells and prospective operations in East Africa.",Bin Ladin kidnapped a man riding on Lake Victoria to use him in the Shura.
+115,"falsify: When 3- and 4-year-olds use their newfound capacity to talk about mental states during play with friends, their understanding of false belief improves further.",Children don't know the existence of false belief.
+116,"falsify: He argued that other extremists, who aimed at local rulers or Israel, did not go far enough.",He thought the other extremists in fact went way too far.
+117,falsify: Moscow declared it would pull its military forces out of Afghanistan within the next nine months.,Moscow declared it prudent to leave all military forces in Afghanistan.
+118,"falsify: They made up stories sometimes, my mother in particular, she made up stories.","My mother didn't make up any stories, only they did. "
+119,falsify: The FBI told us they found no trace of explosives at the crash sites.,"The FBI  found 10,000 pounds of explosives in the wreckage."
+120,falsify:  From Home Work to Modern Manufacture,Manufacturing has remained unchanged for centuries.
+121,falsify: It is basically composed of 29 percent Anglo-Saxon and 60 percent Romance (including Latin and Greek) words.,There are no romance words in the text.
+122,"falsify: What a pleasure, for example, to discover that one who has been tagged out at home plate is the victim of an  out-throw. ","What a disgraceful moment, for example, to discover that one who has been tagged out at home plate is the victim of an out-throw."
+123,"falsify: Receiving inquiries and requests for information and services from around the world, and having assisted many in their vocational rehabilitation and business, the dba is recognized as one of the nation's largest and leading authorities on the self-employment of people with disabilities.",The dba does not receive requests for information and services from around the world.
+124,"falsify: We broke new ground by using information technology to manage our business together, instead of just to audit it.",We do not use information technology in any way when it comes to managing our business.
+125,"falsify: In practical terms, this means that a retailer carrying a broader array of goods faces increased costs both for carrying goods in inventory that will not sell (overstocks) and running out of a good that sells beyond expectations (stock-outs).",This means a retailer that carries a broad array of goods has decreased costs.
+126,"falsify: This year 20,349 girls are members of our Council.","The number of girls who joined this year was less than 10,000. "
+127,falsify: I am sure you will understand my writing to you once more about the important work of the American Cancer Society.,Please cease and desist all written communication.
+128,"falsify: If you need this book, it is probably too late' unless you are about to take an SAT or GRE.","It's never too late, unless you're about to take a test."
+129,"falsify: Let us now pass on to the names of some clothing items that Texans borrowed and then passed on to the rest of the  sombrero, mantilla, poncho, rebozo, serape , and huarache .  A number of animals and vegetables followed the same  avocado from aguacate; mesquite; sapodilla from zapote; guayule; coyote; armadillo; ocelot from ocelote; chaparral ; and javalina from jabalina .  Since cattle ranching is common to both sides of the border, it should come as no surprise that there has been an exchange of ranch-related  lariat from la reata; bronco; lasso from lazo; rodeo; chaps from chaparreras; charro; hackamore from j?¡quima; mustang from mestengo ; and quirt from cuerda or cuarta .",Texans never borrowed any words from Mexican culture. 
+130,falsify: The Chairman was out of the country.,The Chairperson was present in the country at the time.
+131,falsify: Did you identify with any of these characters?,"Did you not perform, then?"
+132,"falsify: A spiritual guide for both, but especially the Islamic Group, was the so-called Blind Sheikh, Omar Abdel Rahman.",The Islamic Group shunned spiritual guides.
+133,falsify: Marking cartons and containers for shipment according to channel-wide standards can speed up distribution.,It is unwise to incorporate the new standards because they will slow down distribution.
+134,falsify: Further research is needed and families still need help.,All the families in our area got the help they needed.
+135,falsify: Private gifts will play a vital role in reaching these goals.,These objectives can be met without financial contributions from individuals.
+136,falsify: Can you remember the first story that you can remember anyone telling you some of the first memories of someone telling you a story?,What was the first story you wrote?
+137,"falsify: It had resumed its flight to Minnesota and saw the smoke from the crash of United 93, less than two minutes after the plane went down.",The plane to Minnesota crashed down.
+138,"falsify: This group of nations provided 39 percent of all apparel imports in 1964 and 51 percent of all apparel imports by 1988 (measured in square-meter equivalents, a measure of quantity).",This group of nations provided 60 percent of all apparel imports in 1995.
+139,"falsify: I'm opening up like five pools and they're giving me a headache because they all turned green today, so, that's like the most fun job for me.",The water in the pool turned pink and it looked so fun to swim in.
+140,falsify: United Way's impact begins with research that helps answer important ,The United Way never begins with research.
+141,"falsify: The changes now going on have their analog in the last century, when technological innovations of the day like railroads, telegraph, and steam power'developed for purposes far afield of retail, apparel, or textiles'helped transform the mass distri-bution of goods and information.",Steam power definitely did not have any bearing on the distribution of goods and information. 
+142,falsify: And storytelling applies?,Storytelling has no application. 
+143,"falsify: At the same time, the company began to redesign its logistics system'the method it used to move goods from suppliers, through warehouses, and to delivery at stores.",Goods were moved directly from the suppliers to the stores.
+144,"falsify: Finally, the cloth must be spread in as many layers of thickness as necessary to achieve the number of units requested or as many as can be properly cut at one time.",The cloth must be spread in a single layer of thickness.
+145,"falsify: As you know, this is an extraordinary year for council fund raising.",This is not an important year for council fund raising.
+146,"falsify: I see the rather boring point about using alumni to cover both men and women, and I quite agree that the use of relatively newer and less widely used terms like authoress, aviatrix , and poetess seems to be a deliberate, unwarranted attempt to identify someone as a female; but a graduate of the feminine gender is a `woman graduate' = alumna , the `first woman dancer in a ballet company' is a prima ballerina (I've never heard of a  prime ballerino ), and a `woman opera star' is a diva or prima donna .  I hesitate to point out that we use prima donna of men, too, because my critics will say that they disapprove of the term's second life as designating a  temperamental person of either sex.",Alumna means a graduate of any gender.
+147,"falsify: Throughout much of the post-World War II era, the majority of men's shirts sold in the United States were white dress shirts, primarily through department stores.",The majority of men's shirts that were sold in the United States were blue T-shirts.
+148,"falsify: They touch an object, hold it up, or point to it while looking at another person to make sure he or she notices.",They will never get attention by pointing at an object while looking at another person.
+149,"falsify: Daisy is a combination of the Old English words, durges `day's' + eage `eye'.",Daisy is a person's name that comes from the name of a flower.
+150,"falsify: The reception is scheduled for Thursday, April 29, (6:00-7:30 p.m.) at the Hyatt Regency.",The reception has been cancelled.
+151,"falsify: Oh, it can lead one to a rhymed ",It makes you speak formally.
+152,"falsify: Only one thing made me a little suspicious when cranking up the  in the descriptive text that appears on the screen, the word labeled is spelt  labelled 'decidedly un-American.",I wasn't suspicious at all. 
+153,"falsify: As we strive to continue and improve upon our efforts for the community, it is our hope that you will join us by providing Keep Indianapolis Beautiful with a generous gift.",We do not want you to donate to Keep Indianapolis Beautiful.
+154,falsify: The doctor sewed up her leg. ,The doctor did not sew her leg up.
+155,"falsify: In contrast, children who regarded their teachers as unsupportive were more likely to disengage, stop trying, and show declines in achievement.",Children who were dismissive of their teachers showed higher academic performance.
+156,falsify: television viewing.,Turning off the TV.
+157,falsify: How far away?,Right here?
+158,"falsify: Just because, you know, she knows how I am, I guess.",She doesn't know what I am like at all.
+159,falsify: The hijackers attacked sometime between 8:42 and 8:46.,Sometime between 8:42 and 8:46 the hijackers bought a coffee from the starbucks at the airport.
+160,"falsify:  Got him just out of 9,500-9,000 now.",We got him out of that 10-20 range.
+161,falsify: They didn't answer.,They responded.
+162,"falsify: YMCA of Greater Indianapolis RLYOC-Urban Mission July 29, 1999 Page 2","The first page of the YMCA of Greater Indianapolis RLYOC-Urban Mission, June 1993 edition. "
+163,"falsify: The onomatoplazia of inflammable is so common that flammable , or even flamable is now commonly substituted, especially on trucks.",The onomatoplazia of inflammable is extremely rare these days.
+164,falsify: Here are just some of the services your gift can provide.,"Your gift can't provide any service, it's completely useless."
+165,falsify: The Campaign is directed at law firms and businesses having 10 or more alumni.,The campaign is directed towards anyone with a checkbook. 
+166,"falsify: This year's challenge is to keep pace with our growing membership through increased levels of support from every facet of the organization-board and committee members, staff, volunteers, alumni, and other friends.",This year we'll have to lay off some staff because of shrinking participation.
+167,falsify: America is under attack.,America is fine.
+168,"falsify: If you're not from Charlotte, you're not going to know where that's at, but, um, it was really far away from everybody and behind the airport and stuff like that.",You are certainly from the area known as Charlotte.
+169,falsify: Do you remember any specific ones that you could retell?,Do you remember the first time you played an instrument?
+170,falsify: What to make of the fact that one may be henpecked but not cockpecked?,What to make of the fat that one may be gouged with spears but not slapped with turtles?
+171,"falsify: So you see the purpose of this fund is about need and helping worthy, but less fortunate students, who without your help would not be able to attend the school of their choice.","Any student, regardless of need, can apply for financial assistance from the fund."
+172,falsify: And did you like living in Charlotte all your life?,"You disliked living in Charlotte all your life, right? "
+173,"falsify: The complexity of the problem, even for basic blue jeans, is staggering.","Except for the case of blue jeans, the problem is simple."
+174,falsify: You do numbers real fast?,"You're pretty dumb, aren't you?"
+175,"falsify: According to contemporaneous notes, at 9:55 the Vice President was still on the phone with the President advising that three planes were missing and one had hit the Pentagon.",The President called the Vice President to tell him the plane hit the Pentagon.
+176,"falsify: Um, I don't think I'll be able to settle down here though, because most of my relatives live up north.","I will settle down here, I am sure of it. "
+177,"falsify: While the evidence of Iranian involvement is strong, there are also signs that al Qaeda played some role, as yet unknown.",There is no evidence linking Iran to this.  
+178,"falsify: Adjust the task to an appropriately challenging level, and tailor teaching and assistance to the child's changing needs.",The needs of children don't change and as such there's no need to adjust the challenging level of the task.
+179,"falsify: The more pieces in a marker, the more effort required to make an efficient marker of a given width.",The more pieces in a marker the less work it is to lay out an efficient marker for a certain width.
+180,"falsify: Yes, Night will devour Day, but Macbeth's significant meaning here  under cover of darkness'in reckless defiance of weird authority'he will have his black agents eliminate the bonded progenitor of Scottish kings, along with his only progeny.",The Scottish kings will eliminate their progeny.
+181,"falsify: How about um, your kids?","You don't like talking about your kids, I know that. "
+182,"falsify: He said, Daddy I have to go poo-poo.","The kid was completely silent the whole time, it was creepy. "
+183,falsify: Your continued generosity can help change a desperate mother's life.,Giving generously helps pay our CEOs exorbitant porn bills.
+184,falsify: Won't you help the WYCA provide a great summer for those kids?,The WYCA doesn't need or deserve your support.
+185,"falsify: Army, and became an instructor at Fort Bragg.",He was never an instructor at Fort Bragg.
+186,falsify: All of this is possible because we are a statewide member network.,"Unfortunately, we cannot do this because we operate in one town only."
+187,"falsify: Unlike the earlier flights, the Flight 77 hijackers were reported by a passenger to have box cutters.","Contrary to the report, the hijackers did not actually have box cutters."
+188,"falsify: Five seconds later, Jarrah asked, Is that it?","Ten seconds passed before Jarrah asked ""is that it?""."
+189,"falsify: The opposite of point-blank is hanging fire , `undecided, up in the air.",Blunt hanging fire is the same as up in the air. 
+190,falsify: 18 The advantage of using VMI programs stems from the retailer and manufacturer working together to determine a flow of shipments that optimizes the economics of the two parties as a system.,The retailer works alone in the VMI program to determine an optimal flow of shipments.
+191,"falsify: Do you feel like that's a Southern thing or a NC thing, or--",Do you feel that it's a northern thing they do?
+192,"falsify: Well, one day, I sai, I was going from San Miguel, uh, to Carolina, my brother lived, my brother was the principal of that, of that school there, in Carolina.",My brother does not live in Carolina. 
+193,"falsify: I guess I want to say that it's been a real positive experience living here, because my, my mother really wants to move back up north because that's where she's from.",I never liked living in this place.
+194,"falsify: More generally, feminists reveal and question implied norms in language and hence in our consciousness, ranging from the application form's unmarried which suggests that marriage is the normal state (as parents of twins imply double births expected, referring to non-twins as singletons ) to more complex issues, such as those associated with terms like masculine and feminine .  Anomalies in language become evidence.",Feminists take spoken language as is and don't feel anyone should question word usage.
+195,falsify: Did you write this?,Why did you destroy this?
+196,"falsify: When parents do make an eort, preschoolers watch less TV, find educational programs more appealing, and more often view shows with their parents.",Preschoolers don't know what TV is.
+197,falsify: Children are back in their classrooms enjoying the fun of renewing friendships and activities interrupted by summer vacation.,Children hate being back in their classrooms after summer vacation.
+198,falsify: This joint attention to objects and events fosters early language development.,This lack of joint attention will never have any effect on early language development.
+199,"falsify: Without those conversations, this level of insight is slow to develop.",Insight of this level develops quickly when those insights are absent.
+200,"falsify: Not really original, no, it was, uh, poems by well-known authors that you'd find in a book, but she had to memorize a lot of them, and she, but she read us children's poems, too, out of books, books that were written for children.",She never memorized any poems.
+201,"falsify: There is a bomb on board and are going back to the airport, and to have our demands [unintelligible].",The terrorists made no attempt to communicate or make negotiations.
+202,"falsify: In make-believe, Alison experimented with the first step of this multistep process when she melded news of the train crash in India with the toy ambulance before her.",Alison couldn't understand what a train crush was.
+203,"falsify: I might add that a gift of $400 qualifies you for recognition in the School of Liberal Arts Dean's Council, a critical group of supporters whose generosity does a lot to advance the calibre of the School.",This critical group is not generous at all. 
+204,"falsify: Seizing on symbols of Islam's past greatness, he promises to restore pride to people who consider themselves the victims of successive foreign masters.",They promised a lot of misfortune to the peopel.
+205,falsify: President Reagan quickly withdrew U.S. forces from Lebanon-a reversal later routinely cited by jihadists as evidence of U.S. weakness.,Jihadists often cite Ben & Jerry's ice-cream as proof of American weakness.
+206,"falsify: I love them all to death, but what they do, doesn't like reflect who I am--",I can not stand them!
+207,falsify: The recurrent motif of time travel came to the fore in H.G.,H.G did not invent any sort of motif for time travel. 
+208,falsify: What we are able to accomplish each year is a direct result of your generosity and your understanding of what it takes to provide the best legal education we possibly can.,Your generosity has nothing to do with what we are able to accomplish.
+209,falsify: These are artists who are either emerging as leaders in their fields or who have already become well known.,Most people don't know about these artists.
+210,"falsify: I was under the impression it was based on Webster's Ninth Collegiate Dictionary , and indeed it was; but there are so many improvements and changes that the absence both of a Longman copyright notice and of any identification of a specific editorial director are a bit mysterious.",I was incorrect about it being based on Webster's Ninth Collegiate Dictionary.
+211,"falsify: So it's, it's written, as opposed to oral?",Its represented only in music.
+212,"falsify: At 8:41, Sweeney told Woodward that passengers in coach were under the impression that there was a routine medical emergency in first class.",Woodward was never informed about the impressions of the people in coach. 
+213,"falsify: I collected, in northeastern Colorado, a very large (ca. 1 inch) species of robber fly (family Asilidae ).  ",Robber flies are only a centimeter in length. 
+214,"falsify: The reasons are technical, arising from the way the software processed radar information, as well as from poor primary radar coverage where American 77 was flying.",Everything on the plane was working up to standard and did not contribute to the difficulty in locating it.
+215,falsify: The hijacking began between 8:51 and 8:54.,Sometime between 8:51 and 8:54 the hijacking was prevented from happening by air marshalls.
+216,"falsify: Under the leadership of Dean H. William Gilmore, the school has identified student support and technological infrastructure as the greatest needs in this year's annual fund appeal.",Student support and technological infrastructure are well funded and not a focus of the school's giving program this year.
+217,"falsify:  Yeah, he's down.",He is still up.
+218,"falsify: It is many years since my contemporaries and I got a kick out of seeing even the bowdlerized f**k in print (in Partridge's Dictionary of Slang and Unconventional English , 1935), and fug in Mailer's The Naked and the Dead allowed prudery to mock itself.",It has only been recently since my contemporaries and I got a kick.
+219,falsify: Al Qaeda's role in organizing terrorist operations had also changed.,Al Qaeda always had the same role.
+220,falsify: So please become an Audubon Society Member now!,The Audobon Society is not accepting members right now.
+221,falsify: This was United 175's last communication with the ground.,United 175 was able to maintain contact after this.
+222,falsify: It was all of those positive influences that I have to thank for opening my eyes to dentistry as a profession.,I have only myself to thank for getting into dentistry.
+223,"falsify: Who can, for instance, blame a youth with but a mildly evil disposition from guffawing when he reads in Pater's Marius The Epicurean (Chapter V) a reference to Apuleius' The Golden Ass noting that  all through the book, there is an unmistakably real feeling for asses ... ",Pater wrote Marius the Elephant.
+224,"falsify: The newly svelte lady surely had in mind an about-face, not a pirouette, and was lithely (as she might say) unaware that her expanded metaphor had canceled the sense of her loss (a moroxish pun?)",The newly svelte lady never had in mind an about-face or a pirouette. 
+225,"falsify: Nevertheless, mental representation is yet another feature that is not exclusive to play.",Mental representation is exclusive to play.
+226,"falsify: It is specifically a dictionary of Scots, or Lallans, which some scholars consider merely a dialect of English and others a distinct language rooted in Old English.","Scots is its own language, it is not an English dialect. "
+227,"falsify: Last year, Goodwill helped 3,300 people find jobs that increased their self-sufficiency.","Goodwill only helped 1,000 last year to find jobs."
+228,"falsify: When Sydney experiments with the color-matching strategy and succeeds in placing the brown piece, she internalizes the technique.",Sydney never experiments with color-matching strategy.
+229,falsify: There was confusion at that moment in the FAA.,The FAA understood completely what was happening.
+230,falsify: First Grade.,Senior in college.
+231,"falsify: In recent decades, certain changes have taken place in the language that reflect voluntary choices of the words used to characterize people; these have focused largely on the conscious and conscientious substitution of neutral, sexless words like individual(s), person , and people for terms that normally denote only males.",Our language is monolithic and we never alter how we speak it.
+232,falsify: A snowboard --.,A skateboard.
+233,falsify: He An air attack against North America may be in progress.,The air attack was over.
+234,falsify: Everybody's family is different.,Everybody's family is very much the same. 
+235,falsify: Recently I found in one of those files in which for many years I have been systematically losing things a magazine clipping from many years ago which points out that the formal language of a century and more past can lead to misunderstandings today.,Formal language of a century and more past doesn't appear to lead to any misunderstandings surprisingly. 
+236,falsify: A list of the schools served during the 1996-97 school year is enclosed.,Here is a list of the churches we got donations from.
+237,"falsify: Um, when you're talking about your favorite stories, what was your favorite part of the story?",You've never talked about stories before.
+238,"falsify: At 8:52, in Easton, Connecticut, a man named Lee Hanson received a phone call from his son Peter, a passenger on United 175.",Lee Hanson was in New York City.
+239,falsify: Few Americans had noticed it.,Americans all took notice.  
+240,"falsify: You have a good attitude about it, though!",You're so rotten about everything.
+241,falsify: Charles Delaney asks for further examples of onomatoplazia . Here are two which misled me for ,"Charles didn't need any more examples, he knew perfectly well what it meant. "
+242,falsify: I liked those Disney World things.,I hated everything Disney.
+243,falsify: He was ready to strike at the head of the snake.,He was not ready to strike.
+244,falsify: The center also contacted the West Virginia State Police and asked whether any reports of a downed aircraft had been received.,No efforts were made to uncover reports of a downed aircraft.
+245,falsify: The size of the pattern can be changed and the visual images compared to get a sense of their appeal.,The size of the pattern is final and not adjustable.
+246,"falsify: Moreover, Bin Ladin had in fact been sponsoring anti-Saddam Islamists in Iraqi Kurdistan, and sought to attract them into his Islamic army.",Bin Ladin offered no support to militants in Iraq.  
+247,"falsify: Na, that's the only one they told me.",They told me millions of different ones.
+248,"falsify: I was asleep, but Luigi was awake, and he thought he detected a vague form nearing the bed.",The room was quiet the whole time with nothing unusual.
+249,falsify: So now I'm going to run three pools over the summer.,I'm not going to have anything to do with pools this summer.
+250,"falsify: Perhaps the terrorists stabbed the flight attendants to get a cockpit key, to force one of them to open the cockpit door, or to lure the captain or first officer out of the cockpit.",It has not been proven that he terrorists stabbed the flight attendants or that they had any nefarious intent.
+251,"falsify: Children's social exchanges begin to infiuence their ways of thinking more profoundly than before, permitting them to acquire competencies in keeping with the requirements of their families and communities.",Children's social exchanges begin to inhibit how they think.
+252,"falsify: The soldier in charge would command, after each firing, that the rank on the scaffold step down and be replaced by the rank that had just reloaded, thus alternating ranks and sustaining the rifle fire.",The commanding soldiers just stayed and fought themselves with no rotation. 
+253,"falsify: Their actions saved the lives of countless others, and may have saved either the Capitol or the White House from destruction.",They did not help anyone in the White House.
+254,"falsify: The Branch's goals focus on increasing the percentage of youth  Grow into mentally and physically healthy adults; Know how to structure their lives in ways that produce meaning and enjoyment; Plan their high school program to allow them to qualify for future higher education, even if the current goals are vocational; Use non-violent conflict resolution skills when needed; Reach adulthood without being involved in alcohol, tobacco and other drug use; Are able to develop and achieve their goals and aspirations.","Youths should be involved in alcohol, drugs and tobacco usage by the time they reach their adult years."
+255,"falsify: When I found out that the infant mortality rate in Indiana was 86 percent greater than for mothers in Sweden, I was shocked.",Sweden has a significantly higher rate of infant mortality than Indiana.
+256,falsify: Gifts of $100.00 are more are recognized through various ways by the school.,"Donations of less than $1,000,000 dollars will be considered negligible."
+257,falsify: But the cases suggest that stepping in only in at times of crisis cannot compensate for providing the ongoing togetherness and haven of a family.,The cases suggest that only getting involved in a crisis can achieve enough.
+258,falsify: Half challenge. ,Full solutions.
+259,"falsify: At 9:39, the NMCC's deputy director for operations, a military officer, opened the call from the Pentagon, which had just been hit.",The Pentagon was hit while on the call.
+260,falsify: You got a job cutting siding wasn't it?,I heard you got a job as a gravedigger.
+261,"falsify: It has been suggested that SF include only those stories which would be invalidated without their scientific content;  that fiction which concerns science, scientists, and the impact of science on humans;  that which explores alternate existences (whether future, extraterrestrial, or only in characters' minds) based on facts and logical progression via scientific method.",Everyone agrees that SF stories can ignore facts and logic.
+262,falsify: I enjoy sharing these small victories with you through my letters.,I only ever talk about bad news when I write to you.
+263,"falsify: Jarrah's objective was to crash his airliner into symbols of the American Republic, the Capitol or the White House.",The main target of Jarrah was to land the plane safely.
+264,falsify: Bin Ladin reportedly showed particular interest in learning how to use truck bombs such as the one that had killed 241 U.S.,"Truck bombs were of no interest to Bin Ladin, having failed to kill anyone using them."
+265,"falsify: At the same time, these regimes had closed off nearly all paths for peaceful opposition, forcing their critics to choose silence, exile, or violent opposition.",They allowed their critics to voice their opinion.
+266,falsify: Speed of delivery has increasingly become part of the competitive equation.,Speed of delivery isn't being used to calculate competitiveness.
+267,falsify: IUPUI is growing and so is the English Department.,"There isn't an English Department at IUPIU, right?"
+268,"falsify: Because they were living in a, in an apartment basically.","For that stretch of time, they were homeless."
+269,"falsify: He also made use of the already-established Third World Relief Agency (TWRA) headquartered in Vienna, whose branch office locations included Zagreb and Budapest.",The Third World Relief Agency had no branch offices.  
+270,"falsify: It's just one of those things, you know that happened.",It's not something that just happens.
+271,falsify: Intelligence clearly linked the bombing to Libya's Colonel Muammar Qadhafi.,Intelligence said the bomb was linked to Iran.
+272,"falsify: The going gets tougher, however, as the two meanings of the answer move further ",It gets easier when there are two meanings.  
+273,"falsify: I spent hours daydreaming and looking at old pictures of Mom, Dad, Sarah, and me. ",I looked at old movies.
+274,"falsify: When a pattern piece is cut from the lay, the cutter then makes the notch cuts indicated on the marker.",Pattern pieces are absolutely never cut from the lay.
+275,falsify: \\ They wasn't ghosts.,They were ghosts. 
+276,falsify: But not every kid is as lucky as Nick.,Every kid is lucky like Nick.
+277,"falsify: In addition, the full donation of $1,000 can be itemized as a federal income tax deduction.","In addition, the whole donaton of $1,000,000 can not be itemized as a federal income tax deduction."
+278,"falsify: This lesson was applied, using Tomahawk missiles, early in the Clinton administration.",Tomahawk missiles have never been launched by the U.S. government.
+279,falsify: Your contribution to Goodwill will mean more than you may know.,You will definitely understand what your contribution to Goodwill will mean. 
+280,"falsify: I, I do think they read to them when they are little.",They were never told stories when they were little.
+281,"falsify: Not until 1998 did al Qaeda undertake a major terrorist operation of its own, in large part because Bin Ladin lost his base in Sudan.",al Qaeda's first major terrorist attack was in 1993.
+282,"falsify: In a time when higher education, and graduate programs in particular, are suffering from a lack of funding, we are positioning ourselves to remain in a leadership position with outstanding faculty, students, and private support from alumni and friends of the program.",We have established that we need no private support for the program.
+283,"falsify: At the same time or shortly thereafter, Atta-the only terrorist on board trained to fly a jet-would have moved to the cockpit from his business-class seat, possibly accompanied by Omari.",There were no terrorists who had any idea how to fly an airplane.
+284,"falsify: Well, it wasn't light yet when the gunfire starts.","When the gunfire had started, there was light."
+285,"falsify: At 9:41, Cleveland Center lost United 93's transponder signal.",The Cleveland Center still had the signal from the transponder.
+286,falsify: Quiet now.,Not quiet.
+287,falsify: Increased profit came from missing fewer sales by being in stock a higher percentage of the time.,Profits declined because less sales were missed.
+288,"falsify: As it turned out, the NEADS air defenders had nine minutes' notice on the first hijacked plane, no advance notice on the second, no advance notice on the third, and no advance notice on the fourth.",The NEADS air defenders had advance notice for all of the hijacked planes.
+289,"falsify: However, the excitement and motivation of that goal is often diminished by the difficult financial constraints that students experience.",Students are motivating and excited and nothing causes that to change. 
+290,"falsify: Garlic is compounded from the Old English gar `spear,' and leac `leek.","The word ""garlic"" is of medieval French origin."
+291,falsify: The aircraft's identity or type was unknown.,The aircraft was clearly identified.  
+292,"falsify: A moment later, the clear, high-pitched sound of the whistle could be heard over the Rabbi's final shofar blast.",The whistle didn't make any sound.
+293,"falsify: Note that the work in a shirt plant is generally grouped into production lots of 1,500 shirts if the progressive bundle system is used.","The progressive bundle system means work is generally grouped into production lots of 20,000 shirts or more."
+294,"falsify: Authoritative parenting, whether assessed through direct observation or older children's ratings of their parents' communication, is linked to many aspects of competence.",Authoritative parenting is not linked to any aspects of competence. 
+295,"falsify: At 9:57, the passenger assault began.",The passengers were too scared to fight back.
+296,"falsify: As the lead pilot explained, I reverted to the Russian threat.",I didn't know which threat to pursue.
+297,"falsify: However you choose to participate, I know you'll enjoy being a part of the Herron School of Art and Gallery.",You will detest the Herron School of Art and Gallery and have nothing to do with it.
+298,"falsify: If approval was given, the orders would be transmitted down NORAD's chain of command.",The would never be approved no matter what.
+299,"falsify: These dialogues occur frequently and spontaneously as adults and children spend time together'in everyday situations such as household chores, mealtimes, play, storybook reading, outings in the community, and children's eorts to acquire all sorts of skills.",These dialogues happen often because kids and adults never spend time together.
+300,"falsify: That's why it's such like a big thing, because my uncle, he went, he went into the military and then came out.",None of my family members have ever served in the military.
+301,falsify: Here the answer is a definite yes.,The answer is no.
+302,falsify: This letter is to ask for your support in remembering your fellow classmate.,The letter is to denounce your classmate and his life. 
+303,falsify: Shootdown authority was first communicated to NEADS at 10:31.,NEADS was given shootdown authority at 9:45.
+304,falsify: Lean retailing has also changed the way the textile industry relates to both apparel producers and retailers.,There are no relationships between the apparel producers and retailers.
+305,"falsify: A guy with a bottle-shaped brown paper bag, damp and wrinkled at its upper end, has almost certainly been slugging down a sweet wine of high proof, and the odds are pretty good you would find it is a muscadoodle .  After the guy finishes his Napa Valley smoke and has slept it off, he is looking for the means to get another muscat fix.",A guy has nothing in his hands.
+306,"falsify: In 1971, he opened is first business, a small New Jersey construction firm.","In 1971, he tried and failed to open a construction firm, and so he gave up his dream of owning a business."
+307,"falsify: I shamelessly and freely borrowed the concept, making adaptations to fit our needs and used it as a direct mail appeal last fall...samples enclosed.",I created this concept on my own from scratch. 
+308,falsify: I know about that!,I never knew that!
+309,falsify: Working in its favor is a social contract with a three-part system established in every country in the ,The three-part system is being discontinued in some countries.
+310,"falsify: Oh well, the cultural differences would come through in the writing, yeah, sure.",Cultural differences can not come through via writing.
+311,falsify: They make up the class of Semantic Clue Elements.,They are unrelated to Semantic Clue Elements.
+312,falsify: Please send your check today.,Don't give us any money.
+313,falsify: She waits tables like one night a week at another job to help put me through and everything like that.,She doesn't want to help me.
+314,falsify: He also showed me the newspaper clipping.,He never showed me the clipping.
+315,"falsify: When a baseball player is removed by the manager, the organist plays  Auld Lang Syne. ",There is no organ music when the manager has to remove a baseball player.
+316,"falsify: The long, disjointed document condemned the Saudi monarchy for allowing the presence of an army of infidels in a land with the sites most sacred to Islam, and celebrated recent suicide bombings of American military facilities in the Kingdom.",The Saudi monarchy has worked respectfully and carefully with the western countries.
+317,falsify: These advancements simply would not have been available without contributions from alumni and friends of the school.,These advancements were available without any contributions.
+318,"falsify: That's the way, way it was, they're big, plenty, if I were to tell you all the stories of what we went through, I tell you, that I'd keep you all night . That's how it was, it was said, but thank God in the family hardly-- The guerrillas also took out a man from the outskirts near the, the place where we lived, who was called Juan.",The guerrillas never took out a man from the outskirts that were nearby.
+319,"falsify: They were, um, they were best-seller type fiction from the um, 40's and 50's and 60's and on, just, they were members of a book club and they got a lot of books that way.",They hardly had any books.
+320,falsify: Nostalgia for Islam's past glory remains a powerful force.,The nostalgia for Islam's past prestige is nonexistent.
+321,falsify: I guarantee you'll feel good knowing you've helped us touch a heart.,"I lie, you won't feel anything touching someones heart."
+322,"falsify: For example, the success of The Gap's jeans, J. C. Penney's Arizona line, and Sears's Canyon River Blue line has led to erosion of the market share held by the two leading jeans manufacturers, Levi Strauss and VF Corporation.",The Gap's jeans didn't experience success although Sears and JC Penney's were very successful with their jean lines.
+323,falsify: Take a step toward making a difference in the lives of our young woman and recommit to the Girl Scout vision.,Please refrain from trying any method to help and commit to the girl scouts.
+324,"falsify: As for Macbeth's great bond , this is a crux over which commentators have argued for years.",There is a general consensus among everyone who reads the play about this.
+325,"falsify: Chapters 13 through 15 examine the channel as a whole, from global, private-performance, and public-policy perspectives.",Chapter 15 examines marketshare effect.
+326,"falsify: I am happy to report that we have reached our 50 person minimum and the Class of '58 will be celebrating, as planned, at the Holiday Inn on Saturday, September 18 at 6:30.",Unfortunately we can not set the Holiday Inn as the place as we haven't got the required number of attendees.
+327,"falsify: Oh well that was Rosemary, her mother was gone.",Rosemary's mother is with her.
+328,falsify:  From Fiber to Cloth to Finished Product,From cloth to fiber to finished product.
+329,"falsify: What, ah, story in your childhood had the most impact on you?","No one told you stories as a child, did they?"
+330,falsify: Just how does imaginative play help children distinguish ideas from the enticing stimuli around them and use thought to guide behavior?,How does imaginative play stop children from distinguishing ideas?
+331,"falsify: Duende [XV, 1] may be absent in Italian and French, as Mr. Bria assures us, but it is alive and prospering in Portuguese.",Duende is entirely absent in the Portuguese language.
+332,"falsify:  We're just, we just we don't know who he is.",We know exactly who he is.
+333,falsify: Each narrative focused on a relatively exceptional personal experience.,The narratives were based on common occurrences.
+334,falsify: Retail buyers of old grappled with this problem as they do today.,The problem is only faced by today's retail buyers.
+335,falsify: We need your participation in our activities and your financial support to help make our goals happen.,We don't need participation or funding from anyone to make our goals happen.
+336,"falsify: Just before 8:14, it had climbed to 26,000 feet, not quite its initial assigned cruising altitude of 29,000 feet.","It climbed to 30,000 feet by 8:13."
+337,"falsify: No, it was first told to me by my grandmother, who is, um, was my first teacher, and remains my hero.",I've never heard that story before.
+338,falsify: // The fine county of Gaston.,"The awful, crime filled Gaston county."
+339,"falsify: In the 95 paper, I extend Tuleja my sympathies.",I am happy for Tuleja.
+340,falsify: We discuss the trade-off arising from providing new products with little information on consumer demand (fashion products) and replenishing items on the basis of sales (historically limited to more basic products) in detail in Chapter 6.,Chapter 6 is only about the best way to sell old clothes.
+341,"falsify: The emergence of textile, apparel, and retail enterprises in the United States is full of fascinating twists.","Textile, apparel, and retail enterprises have all failed and gone nowhere in the United States."
+342,falsify: I will call you in a few weeks to discuss your level of interest.,I don't have time to call you to talk about your level of interest in a few weeks.
+343,falsify: And leave a singed bottom all involved With stench and  ...,Leave the bottom alone.
+344,"falsify: I recently purchased a new computer, and, because it operated on a system different from the one of my old computer, I asked a few friends to recommend a word-processing package that I might.find useful.",I already knew how to use the OS that my new machine runs.
+345,falsify: Enclosed is a form you can complete and return to us in the postage-paid envelope.,"Please discard this letter and burn it, we don't want your opinion."
+346,"falsify: Finally, as children participate in narratives and listen to those of others, they acquire culturally accepted ways for negotiating clashing viewpoints.",Hearing differing narratives causes children to cling more tightly to their world views.
+347,falsify: Laser-cutting equipment must be totally enclosed to be safe for human operators.,Laser-cutting machines must be used in an open an airy area for it to work well.
+348,"falsify: Chapter 3, Generalizations, treats with good sense methods that can be employed to avoid sexism in a wide variety of constructions.",Third chapter doesn't relate to sexism at all.
+349,"falsify: Together with those who were already donors, there are over 1,350 staff and faculty supporting the work of IUPUI with their gifts.","The IUPUI has no supporters, and is having trouble gaining any."
+350,"falsify: At 9:32, a third radio transmission came over the Keep remaining sitting.",No transmissions happened at 9:32 at all.  
+351,"falsify: South Asia had an indigenous form of Islamic fundamentalism, which had developed in the nineteenth century at a school in the Indian village of Deoband.",Islam did not make its way into any Asian nations.
+352,"falsify: By 1920, over half of the spinning and weaving capacity was in the South, leading industrialization there.",Most of the weaving capacity was in the North.
+353,falsify: Every meter of fabric destined for apparel production is normally inspected by the textile manufacturer.,Textile manufacturers send their goods to the clothing manufacturers without any form of quality evaluation.
+354,"falsify: In addition to that, by helping them find jobs, Goodwill reduced the state's Public Support tab by an estimated $4 million.","By helping them find jobs, Goodwill cost the state $4 million dollars."
+355,falsify: Yeah that's one that I like.,I don't like that one.
+356,falsify: What writers?,Which foods?
+357,falsify: Please make checks payable to Indiana University Foundation.,Please make your checks out in the amount of over 50 million dollars. 
+358,"falsify: I was always into those kinds of heroic things, um, so I read a lot of those things.",I was never into heroic kind of things and so I never read those things.
+359,"falsify: The remainder of Chapter 1 is mainly a catalogue of misinterpretations, aberrations, and plain errors regarding the use of man as a generic.",Chapter 1 is the only chapter in the entire book.
+360,falsify: The New York Center controller and manager were unaware that American 11 had already crashed.,The managers were aware of the plane crashing.
+361,falsify: His checked bag was screened for explosives and then loaded on the plane.,They didn't load his bag on the plane after screening it for explosives.
+362,falsify: The popularity of casual-wear items like T-shirts and jeans'quintessentially factory-sewn garments'has also shifted sewing from home to the factory.,The popularity of casual-wear items has moved to the home.
+363,"falsify: My, and I somehow managed to convince my, my mother and stepfather, of the time, to uh get me a couple of turn tables and started mixing songs and scratching and doing all that D.J. stuff.",My father and stepmother were turntables. 
+364,"falsify: What is  counterproductive  is the notion that speakers of a language have to recognize semantic  they don't  recognize  it, they create it.",Speaking a language is counterproductive.
+365,falsify: We'd basically coasted down into town and got about 50 gallons of kerosene and pumped it in the fuel tank so that so that the fuel would actually run through the fuel lines and the bus would run.,The bus didn't need any fuel.
+366,"falsify: Next bend, back to silver.","Next bend, back to gold. "
+367,falsify: So I liked that.,I did not like that at all.
+368,falsify: This is not newsletter.,This is a newsletter.
+369,"falsify: Based on our 1992 survey, we estimated lead times for two different   standard  lead times that represent performance for a typical product in the supplier's selection and  shortest  lead times that indicate a supplier's best practice.",We did not carry out any surveys in 1992.
+370,"falsify: Top-down  an apex of professors and doctors buttressed by the holders of college degrees (many of them lower-level administrators, teachers, and researchers within the system).",There is no sort of appex of doctors and professors. 
+371,"falsify: But NEADS did not know where to send the alert fighter aircraft, and the officer directing the fighters pressed for more I don't know where I'm scrambling these guys to.",NEADS knew the exact location that the aircraft needed to go to.
+372,"falsify: In 1990, the law school received only $18,114 in matching gifts from 15 companies.","$2,422 was the figure for the amount the law school received during 1990."
+373,falsify: Groundhog hole found the front tire of the motorcycle and I managed to fly over the handlebars.,I drove past the groundhog hole fine and without a hitch.
+374,"falsify: It's kind of a, which is the cause and which is the effect, question.",There's no question of which is the cause.
+375,falsify: Several FAA air traffic control officials told us it was the air carriers' responsibility to notify their planes of security problems.,Air traffic control officials did not think that air carriers were responsible for notifying their planes of security problems.
+376,"falsify: For example, textile firms that supply retailers directly with their own products may have to combine equivalent information technologies with manufacturing innovations in finishing lines that shorten production cycles in order to gain competitive advantage.",Textile firms cannot supply retailer directly with their own products.
+377,"falsify: Repeatedly between 10:14 and 10:19, a lieutenant colonel at the White House relayed to the NMCC that the Vice President had confirmed fighters were cleared to engage inbound aircraft if they could verify that the aircraft was hijacked.",The Vice President denied the engagement of U.S fighters.
+378,"falsify: As graduates of the class of 1990, we would like to leave behind something tangible, in appreciation for the support and encouragement we have received from other students in the School of Engineering and Technology.","We, as a group, hold a spiteful grudge toward the school."
+379,"falsify: ) In some countries, puzzles of this type are called  cryptograms,  a name we shall use from here on.",These puzzles are called anagrams but we will just call them puzzles from here. 
+380,"falsify:  a short article about someone or something in a dictionary or encyclopedia,.",A long book about abstract ideas about nothing in particular.
+381,"falsify: And, um, I just wish that my counselor would have been more helpful to me.",I wish that my counselor would have stayed out of my business.
+382,"falsify: As shown in the cases studied in Chapter 7, production-cycle time and inventory carrying costs are two crucial parameters in making rapid replenishment sourcing decisions.",There were no cases studied in the seventh chapter.
+383,"falsify: For Johnson's Frenchie this becomes,  Bid him go to hell, to hell he goes. ",Johnson's Frenchie is not going to hell.
+384,"falsify: Perhaps the fascination with man's past grew out of the obsession with ruins evinced by Romanticism; certainly, modern archaeology seems to have followed close behind, for the excavation of the supposed site of Troy took place only about 100 years ago.","People still aren't fascinated with history, no one cares at all. "
+385,"falsify: In 2001, with Bin Ladin's help they re-formed into an organization called Ansar al Islam.",Bin Ladin helped reform a group called Dctors without Bordres.
+386,"falsify: Inside the NMCC, the deputy director for operations called for an allpurpose significant event conference.",The deputy director for operations suggested that no further event conferences be held until further notice.
+387,"falsify: In early childhood, it predicts positive mood, self-confidence and independence in mastery of new tasks, cooperativeness, and resistance to engaging in disruptive behavior.","In early childhood, it is likely to contribute to a low sense of self-worth and an inability to get along with peers."
+388,"falsify: Gifts also support student organizations such as moot court, supply library materials, pay for student research assistants, and make available other necessary resources.","Gifts have no bearing on moot court, library materials, or other resources."
+389,falsify: That fund would allow us to grant a $500 scholarship annually to meritorious applicants with financial need.,That account is solely for buying lunches for professors.
+390,falsify: It was about the same time when all the space program was getting started off and I was in the first grade when the United States launched the first satellite and I was in the second grade when the first manned space capsule was sent up and because of what was going on at the time it was real interesting.,I was an adult when the U.S. space program started. 
+391,"falsify:  Laura has! declared Sophie, glancing at me.","Sophie looked away from me as she declared, ""Laura has!"""
+392,falsify: We wouldn't exist if the need weren't there.,We're here regardless of whether or not there's a problem.
+393,"falsify: They also raise grave concerns about the recent proliferation of expensive commercial early learning centers, in which infants are barraged with letter and number fiashcards and slightly older toddlers are drenched in a full curriculum of reading, math, science, art, music, gym, and more.",There has been a dramatic decrease in expensive early learning centers.
+394,"falsify: In part, that is attributable to the designation of his correspondents, who keep him informed on language that is not within earshot, as the  Lexicographic Irregulars,  an amusing reference the first time or two it was used but now beginning to cloy.",The correspondents keep the person informed of the weather.
+395,"falsify: Instead, its very essence is self-restraint'voluntarily following social rules.","Instead, it is designed to break all social rules and restraint."
+396,"falsify: Instead, the Department established the Joint Forces Command, located at Norfolk, Virginia, making it responsible for military response to domestic emergencies, both natural and man-made.",The Department eliminated the Joint Forces Command in Virginia when they new President took office.
+397,falsify: Are you going to buy any gifts for people or make anything?,Don't bother buying gifts for people they won't like you anyways.
+398,"falsify: And how, OK can you tell me any flood stories about growing up in Penn?","There were no floods in Penn, is that right? "
+399,"falsify:     To the best of our recollection, this may be the only instance in which the origin of an expression has been traced to a statue.",Thousands of expressions owe their origins to statues. 
+400,falsify: Working in its favor is a social contract with a three-part system established in every country in the ,The system established in every country had two parts. 
+401,falsify: The music industry.,The film business.
+402,"falsify: One of the most significant changes in retail inventory management in recent years has been the introduction of vendor-managed inventory?(VMI) programs, also known as Continuous Replenishment Programs (CRP) or Continuous Product Replenishment (CPR).",VMI is Vector Management Institution it has been effective in controlling pests.
+403,"falsify: The bankruptcy of secular, autocratic nationalism was evident across the Muslim world by the late 1970s.",Autocratic nationalism was doing well in the Muslim world by the late 1970s.
+404,"falsify: Wha, yeah, very hard compared to high school.","I'm surprised, and actually pretty disappointed, that the difficulty level hardly stepped up after high school."
+405,"falsify: Correspondingly, employment in automotive and apparel trimmings increased 71.4 percent from 1979 to 1997 while in women's and misses blouses and skirts it declined by 60.6 percent in the same period.",Employment in automotive and apparel trimmings decreased from 1979 to 1997.
+406,falsify: He searched along the plane's projected flight path and the airspace to the southwest where it had started to turn.,He never knew what the projected flight plan was.
+407,"falsify: Citing the Soviet army's withdrawal from Afghanistan as proof that a ragged army of dedicated Muslims could overcome a superpower, he told the  We are certain that we shall-with the grace of Allah-prevail over the Americans.",The Soviets army continue to fight in the area of Afghanistan.
+408,falsify: Then he came and we stayed on in the same place.,We left before he came.
+409,"falsify: Parents, as I noted earlier, often complain that they have too little time for children'indeed, too little time to sleep, read, cook, exercise, and socialize as well!",Parents always say that they have enough time for children.
+410,"falsify: There is another option called, SUGGEST, which, if invoked, lists up to seven or eight words that you might have had in mind when you wrote the one that offended the machine, and this brings me to the point of this article.","The SUGGEST option is completely broken, as it won't offer any word suggestions."
+411,"falsify: Of the two, the W geographical listings seem more  W lists Aylesbury , which, through some grievous, egregious fault, is not in the geographical section of the L but does appear in the A-Z section (because of the ducks).",I really don't know. this was a confusing line.
+412,"falsify: Between 9:15 and 9:30, the staff was busy arranging a return to Washington, while the President consulted his senior advisers about his remarks.",The staff made no immediate plans to return to Washington.
+413,"falsify: But duende has deeper vibrations, evoking for its disciples the very ethos of Spain.",Duende had no vibrations.
+414,falsify: A local software company has generously donated a complete analysis of our computer hardware and software needs so that the school can offer faculty and students the most up-to-date information technology.,A local software company declined to donate any information technology materials. 
+415,"falsify:  Forge an adult-child relationship based on shared understanding, or intersubjectivity'one in which the adult strives to  connect  with the child by  stretching down  to his or her point of view, thereby helping the child  stretch up  to the adult's more mature perspective.",A child can't stretch to see how an adult sees things.
+416,"falsify: Tuition for the 1999-2000 school year is $6,250 and is expected to go up next year.",Tuition fees have been decreasing with each passing year. 
+417,falsify: We hope you had an opportunity to read about Robert and his time at the Club before the letter became lost in the numerous pieces of mail one receives over the holidays.,We hope you read about Robert and his experience at the Club before he passed away.
+418,falsify: He made a face too.,He didn't show his face.
+419,falsify: The Vice President was mistaken in his belief that shootdown authorization had been passed to the pilots flying at NORAD's direction.,The Vice President's belief about the shootdown authorization was correct.
+420,falsify: That aircraft was United 93.,The plane was United 11.
+421,"falsify: This year, 1993, marks the ten-year anniversary of the A. Rebekah Fisk Memorial Scholarship.",The A. Rebekah Fisk Memorial Scholarship has been around for five years now.
+422,falsify: Other flight attendants were busy at duties such as getting medical supplies while Ong and Sweeney were reporting the events.,All flight attendants were unoccupied and had nothing to do.
+423,"falsify: Yiddish never apologizes for what it is'the earthy, wise soul of an expressive people learning that life is but a mingled yarn, good and ill together.",Yiddish is really only for the good times in life.
+424,falsify: They were promptly executed.,"They were set free, uninjured. "
+425,falsify: Congratulations on the completion of your bachelor's degree from Purdue University School of Engineering and Technology at IUPUI.,You completed a master's degree from Purdue University
+426,"falsify: If you have any questions, please call me at 241-2661.",You must not ever call me
+427,falsify: You now have the opportunity to help your school honor Dr. Phillips by contributing to an endowed professorship in his honor which will help assure continuation of his work.,If you contribute it will go directly into the garbage can. 
+428,"falsify: According to one report, Saddam Hussein's efforts at this time to rebuild relations with the Saudis and other Middle Eastern regimes led him to stay clear of Bin Ladin.",Bin Laden and Saddam Hussein were making efforts to rebuild relations with each other. 
+429,falsify: Your gift in this area has a direct impact on a student's continuing education.,Your gift goes towards buying the student drugs so they can have a fun time in college.
+430,"falsify: Grandpop was a very quiet, somber man he wouldn't say much but uh, Gra ndmom was a little more boisterous.",Grandpop was the noisiest old person on the face of the earth.
+431,"falsify: Each year, we help thousands of people who face tremendous obstacles.",Goodwill seeks to make profits for investors without worrying about anyone else.
+432,"falsify: Thus the military did not have 14 minutes to respond to American 77, as testimony to the Commission in May 2003 suggested.",The military had a full 14 minutes to respond to the aircraft.
+433,falsify: Tell me about your bike.,Let me know about your xbox.
+434,falsify: // All the time.,Never.
+435,falsify: (The Shia are dominant in Iran.),The Shia are the weakest minority in Iran.
+436,falsify: But the long lead times they require will increasingly challenge such arrangements.,Long lead times will not ever occur
+437,"falsify: And he said, Don't play, the soldier said, don't play, he said, innocent, he said, in that house, I, our house is huge, and I stayed locked up, because just me and my son lived, my baby son, tiny, and me, and well, that's all.","My house was really small, and I lived there with my son, my mother, and my father."
+438,"falsify: At 9:03, United 175 crashed into the South Tower.",Nothing crashed into the South Tower.
+439,falsify: We first turn to the problem of forecasting sales in retail stores.,We will not address forecasting sales at all.
+440,"falsify: Fortunately, not all reports are as disturbing as Hochschild's.",Hochschild's reports were very sweet and refreshing.
+441,"falsify: To be sure, it is the most common meaning, which is why it is listed first.",The lesser common definitions tend to be the first ones to be listed.
+442,falsify: Goodwill helps people get off of public assistance.,Goodwill doesn't have any affect on public assistance.
+443,"falsify: Ah, we heard a suspicious transmission on our departure out of Boston, ah, with someone, ah, it sounded like someone keyed the mikes and said ah everyone ah stay in your seats.",There was nothing out of the ordinary about the transmissions that we received that day.
+444,"falsify: The information-integrated channels developed in the United States, which are now influencing sourcing patterns from Mexico and the Caribbean Basin, have begun to affect the textile and apparel sectors worldwide.",The basketball industry worldwide have changed since the introduction of information-integrated channels.
+445,falsify: Excitement abounds as some 300 students and proud parents and grandparents fill the IUPUI Conference Center for the event.,Around 100 sad students are at the IUPUI Conference Center.
+446,"falsify:  He wants a lollipop, too! ",He too would like a juice box.
+447,falsify: But there is something you can do to help.,There is nothing you can do to help. 
+448,"falsify: once in a blue moon , listed under moon in L ) may be listed elsewhere (under blue moon in W).","""Once in a blue moon"" may not be listed anywhere other than the original place."
+449,"falsify: Note that these significant technological, market, and environmental changes largely originated outside the apparel industry itself.",These technological changes originated within the apparel industry.
+450,"falsify: The business grew and eventually, he was helping thousands nationwide.",His company shrank and he ended up helping only a few hundred. 
+451,falsify: In order to study performance we must first examine how different manufacturing practices fit together for suppliers.,The study is about how often employees take breaks.
+452,"falsify: The environment, including the social environment, is available for children to interact with as they make sense of their experiences, but it does not determine the evolution of the child's mind.",Children don't learn anything from their social environment.
+453,"falsify: Although I'm a retired person, today I have a beautiful outlook on life because of Indy Reads.",I'm still working and Indy Reads made my life worse.
+454,falsify: And the lion ate him.,The lion refused to eat him.
+455,"falsify: It was, uh, a very established studio and had put out a lot of, um, I guess, well known artists, and it was actually, it was affiliated with Jive Records, um, and Jive Records, I guess, at the time, had, their big act was the Backstreet Boys, and they were recording the Backstreet Boys' first American released album.",The Backstreet Boys never recorded any of their albums at this studio. 
+456,falsify: You can help make this valuable program available to many persons who are not currently benefiting from dental care.,Everyone is currently benefitting from dental care from this program.
+457,falsify: There you are.,I don't know where you are.
+458,falsify: Each center thus had part of the knowledge of what was going on across the system.,Each tower knew what was going on system wide.  
+459,falsify: Vice President Cheney was asked for authority to engage the aircraft.,The aircraft engaged without asking for authorization.
+460,"falsify: As a member of the Law Alumni Board (Board of Visitors) you are quite well acquainted with the programs, progress and problems of the law school.","The law alumni is a title in name only, they don't know what's going on. "
+461,"falsify: In Cecilia's case she had to face the situation with a limited education, no skills and no source of income.","In Cecilia's case, she had a lot of education."
+462,"falsify: In addition, its capacity to use information on the state of demand allows it to set inventory levels on a SKU basis that balances the benefits of having a product available against the costs of holding work-in-process and finished goods inventories.",There is no ability of using state of demand information to set inventory levels.
+463,falsify: Subcontractors who might do cutting as well as sewing are provided with enough fabric to make the order.,Subcontractors who cut and sew will only receive a portion of the fabric needed to complete the order.
+464,falsify:  Is this real-world or exercise?,"It's just an exercise, for sure."
+465,"falsify: Map 33 shows the distribution of child (most of southern England) and of bairn (north of a slightly wavy line between Boston, on the Wash to the east, and Lancaster, on the west coast).",Map 33 shows us that the word child was used universally across England while bairn only came into use in Scotland.
+466,falsify: I forgot about comic books!,We have talked for hours about comic books.
+467,falsify: Yet few of us hear enough about kids who live through these adversities and do make the grade.,None of the kids in adversity make the grade
+468,"falsify: I don't, I kind of don't think about that though, because I'm like my life is my life, you know?",I think about it every day of my life.
+469,"falsify: Big Sisters helps fill that void by matching caring, responsible adult volunteers with at-risk girls, ages 8-14.",The Big Sisters are matched with teens aged 15-18.
+470,"falsify: All The Little Monster Books, I can't remember what the individual names of them were but I've read them all multiple times.",I've never read any of The Little Monster books. 
+471,falsify: An envelope and giving card are enclosed (with checks payable to Indiana University Foundation).,No envelope or giving card include.
+472,"falsify: At 9:32, they found one.",They still hadn't found any.
+473,"falsify: Two minutes later, staff reported that they were still trying to locate Secretary Rumsfeld and Vice Chairman Myers.",Staff reported they getting Rumsfeld to safety.
+474,"falsify: As you know, we are in the process of building an endowment fund in graduate periodontics at Indiana University which will honor Dr. Timothy J. O'Leary, a man whose leadership played a significant role in our school and profession.",We are currently not in the process of building an endowment fund. 
+475,"falsify: Some time ago, Texans picked up a speech habit that is being acquired by the rest of the country.",The Texan people mimicked the accent of the rest of Americans
+476,"falsify: Uh, we used to walk up to the local grocery store, uh, which was about three or four blocks away.",The closest grocery store was several miles away.
+477,"falsify: There are many other, lesser factors at work, but taken together, all tend toward standardization, especially as the older speakers die off.",There are no older speakers.
+478,"falsify: As work progresses through a typical sewing plant, it is also common for a special order to disrupt the flow.","Typical sewing plants do not let a special order ruin the flow of production, they simply ask them to wait."
+479,"falsify: If my father bought it, it would have to be a Dodge.",I never knew my father but I wish that I could.
+480,falsify: Engineers designed operations to take similar lengths of time to achieve line balancing.,Engineers are pushing for different lengths of time to achieve line balancing.
+481,"falsify: This was followed by a second radio transmission, with sounds of screaming.",There was no second radio transmission.
+482,falsify: The paper marker identifies each piece in the layout so that the cloth pieces for individual apparel items can be put together after the fabric is cut.,The paper marker identifies some pieces in the layout.
+483,falsify: They seem to think that he is descending.,They think he is increasing the height.
+484,falsify: We shall return to this point later.,We will skip this.  
+485,"falsify: American Airlines dispatchers also tried, without success.",The dispatchers achieved a lot of success.
+486,"falsify: Confronted with a violent Islamist movement that killed President Anwar Sadat in 1981, the Egyptian government combined harsh repression of Islamic militants with harassment of moderate Islamic scholars and authors, driving many into exile.",The Egyptian government became more lenient with Islamic militants after President Anwar Sadat was killed in 1981.
+487,falsify: For North Carolina?,Against North Carolina?
+488,falsify: One of our volunteers will be contacting you soon.,You will never be contacted by one of our volunteers.
+489,falsify: These statements were incorrect as well.,The statements were completely accurate.
+490,"falsify: Among the subjects he touches on in his poem are street crime, unemployment, the degradation of the welfare system, tacky urban renewal projects, overcrowding, high rents and unscrupulous landlords, noise, vehicular traffic, congestion, even problems of immigration and integration.",He only touches on three subjects in his poem.
+491,"falsify: The paradox of make-believe is that in everyday life, when children subordinate actions to rules, they usually give up something they want'instead of keeping a treasured toy all to themselves, they share it; instead of continuing to play, they clean up; instead of watching more TV, they go to bed.",There's absolutely no paradox involved with make-believe that becomes noticeable when compared to regular life.
+492,"falsify: Thirty-seven passengers, including the hijackers, boarded the plane.",There were a hundred passengers who boarded the plane in addition to the hijackers.
+493,falsify: For W9's exemplary precision in telling us what vocabulary entries and dictionary entries are is offset by its vagueness about which type of entry its PR-wallahs have counted for their blurb.,"W9 poorly explains vocabulary entries, but its PR blurbs are excellent."
+494,"falsify: This year's contribution form includes a place to indicate how your donation should be used, or just make your check out to the IGGS Scholarship Fund.",Make out the check to me and unfortunately you cannot indicate how to use your donation. 
+495,"falsify: Having served thousands, the .dba is recognized as one of the nation's largest and leading authorities on the self-employment of people with disabilities.",The .dba is a small and new authority in this nation.
+496,"falsify: American narratives rarely dwelt on misdeeds and, at times, even recast children's oenses as strengths'as indicative of quick thinking and an active, spirited disposition.",American narrative had a lot of misdeeds in them.
+497,"falsify: Now, as children tend their gardens, they have a new appreciation of their relationship to the land, their cultural heritage, and their community.",Our children are not allowed to work in the gardens.
+498,"falsify: Witness the following conclusion by a researcher who compared American with Japanese infant rearing   An American mother-infant relationship consists of two individuals . . . a Japanese mother-infant relationship consists of only one individual, i.e., mother and infant are not divided. ",Witness the following conclusion by a researcher who compared Japanese teens with American adults.
+499,"falsify: Infants tried all manner of signals'facial expressions, vocalizations, and body movements'to get their mother or father to respond again.",Infants do not attempt to signal their parents at all.
+500,"falsify: It is a pivotal time in the life of a young girl-when small changes in her behavior, or the choices she makes, can affect her future.",Choices made today do not typically influence young girls' futures.
+501,falsify: Can sort shapes into categories.,Impossible to sort shapes.
+502,falsify: (Points again to the bottom of the puzzle),"Doesn't point, just grunts about the puzzle."
+503,"falsify: Jarrah was in seat 1B, closest to the cockpit; Nami was in 3C, Ghamdi in 3D, and Haznawi in 6B.",Haznawi was seated closer to the cockpit than Jarrah.
+504,falsify: Seventy-two churches in Britain were named for Cuthbert.,Only one church in Britain is named for Cuthbert.
+505,"falsify: In high school I was, you know, 3.0's, you knows A's and B's an occasional C. Now here I'm lucky if I get a C on something.","Now I can easily get A's and B's, while before I was lucky to get a C."
+506,"falsify: The would-be killers, who came from the Egyptian Islamic Group, had been sheltered in Sudan and helped by Bin Ladin.",The killers came from al Qaeda.
+507,"falsify: skinflint In many parts of early America, necessities such as flint were scarce.",Air was scarce in early America.
+508,"falsify: However, a donation of $25 or more entitles you to official membership in the Alumni Association with the privileges thereof,  1) The right to vote in the upcoming Alumni Association Board Member elections (currently two members of the Class of' 84, Maureen Althert and Brian Elson serve on the Board); 2) An official Alumni Association decal and membership card; 3) A discount on Alumni Association apparel; and, 4) Eligibility for the Charity Raffle, $500 to be given to the charity of your choice.",You will be accorded nothing if you give $25.  
+509,"falsify: Slang's space cadet `an eccentric, especially one who is stuporous or out of touch with reality' evolved from  Tom Corbett, Space Cadet,  a 1950 television series depicting the adventures of a 24th-century cadet in the Solar Guides, the interplanetary police force keeping order in the Solar Alliance.","Space Cadet aired in the year 2000, and it depicted the adventures of a 21st century policeman."
+510,"falsify: These are challenging times for public institutions of higher education, with legislative appropriations unable to fund schools to the level they have in the past.",Public institutions are being funded fine and we don't need your help. 
+511,"falsify: It can help purchase clothing, school supplies, books and educational tools throughout the year.","We provide school supplies, but not clothing."
+512,"falsify: In Algeria, where in 1991 Islamists seemed almost certain to win power through the ballot box, the military preempted their victory, triggering a brutal civil war that continues today.",Islamists won power in Algeria in 1991.
+513,falsify: Some family members who listened to the recording report that they can hear the voice of a loved one among the din.,No one was allowed to listen to the recordings.
+514,"falsify: On the other hand, the shared main entry for watershed has twenty-three words in CED but 93 in Cobuild .  And the word waterless is a main entry in Cobuild , explained in twenty words, whereas in CED it is naught but a so-called  undefined runon 'merely mentioned, but not explained explicitly, as a sub-entry at water .  So CED enters more items than Cobuild , but devotes less space to explaining them.",CED has both more entries and more space directed toward explaining items.
+515,falsify: Although I do enjoy Spring and March here.,"I wish winter would come already, spring is getting tiring."
+516,falsify: As the tax year draws to a close I would like to urge you to make a tax deductible contribution for the support of Women's Studies.,The donations are not tax deductible.
+517,"falsify: Last year, you gave us a contribution of $xx, for which we, and the people you helped, are grateful.",That money you gave us last year got spent on booze and porn parties.
+518,"falsify: Members receive a membership package that includes all of our educational material, a subscription to aakp RENALlFE, membership in a local chapter if applicable and assurance that your voice is heard in Washington, DC.",Members get nothing other than the satisfaction of helping.
+519,falsify: They have the potential to shape our world and make important decisions that will affect us all.,They don't have any say in decisions that would affect us all.
+520,"falsify: I'm going to cut it with the, a knife, the knot, so the cow can go and she won't die.",I can't cut through the knot with a knife so the cow is going to die.
+521,"falsify: In the course of a long night, two Black Hawk helicopters were shot down, 73 Americans were wounded, 18 were killed, and the world's television screens showed images of an American corpse dragged through the streets by exultant Somalis.",It wasn't divulged until years later that the US military had suffered serious losses on that night in Somalia.
+522,"falsify: Too many families have separate adult-child living areas, each equipped with its own TV and other leisure pursuits so that parent-child dialogues seldom take place.",Every family has a common living space where parent-child discussions occur often.
+523,"falsify: While Bin Ladin maintained his own al Qaeda guesthouses and camps for vetting and training recruits, he also provided support to and benefited from the broad infrastructure of such facilities in Afghanistan made available to the global network of Islamist movements.",Bin Ladin never benefited infrastructure related to global networks of Islamist movements.
+524,"falsify: It is a contraction of gung-yeh ho-dzo , `industrial cooperation, 'and it caught on because it is easy to pronounce, as in 'Nam or the States .  'Nam by itself is no more derogatory or misleading than shortening airplane or telephone or gung-ho .",It is considered derogatory to shorten the words airplane and telephone.
+525,"falsify: metaschizotherium Not an over-arching, society-wide split personality, but mind blowingly enough an extinct rhino with a fivetoed foot.","An over-arching, societal split personality is known as a metaschizotherium."
+526,falsify: What about high school into college into adulthood what are some of the books that you read?,What did you read in the middle school to high school period?
+527,"falsify: Lexicographers constantly face problems of defining terms that, in some instances, might require a brief essay to explain and far more specialized knowledge than can reasonably be expected from the user.",Lexicographers can always provide the word meaning in a single sentence.
+528,"falsify: He learned in the tunnel that the Pentagon had been hit, and he saw television coverage of smoke coming from the building.",There was no television coverage of any of the events.  
+529,"falsify: It began in medieval Europe, and in the late 20th century it is everywhere in the world.","It had disappeared by the late 20th century, after having begun in medieval Asia."
+530,"falsify: Because you are an organization that cares, you are invited once again to be an integral part of this fabulous event as a corporate sponsor for JCC Auction '99.",Your organization is not one we want to sponsor us.
+531,falsify: NORAD officials have maintained that they would have intercepted and shot down United 93.,NORAD believes that they would have changed their minds on how to deal with United 93.
+532,"falsify: Such fund are often used for college tuition, vocational training or a deposit on an apartment.",You may not use the funds for a deposit on an apartment.
+533,"falsify: Consistent with Vygotsky's concept of the  zone,  sensitive parents adjust the way they talk about emotions to fit children's increasing competence.",Sensitive parents do not adjust their communication to fit their child's increasing competence.
+534,falsify: Many of us also from time to time talk about a  fourth estate 'the media.,"Sometimes we talk about a fourth estate, trees."
+535,falsify: Don't they do that a lot with like Britney Spears and people like that?,Do they do that a lot with people like Selena Gomez?
+536,falsify: // The gas station part.,The car wash part.
+537,falsify: You did a really good job.,"Unfortunately, what you did was absolutely horrible."
+538,"falsify:  How to protect your neighborhood against crime and Jennifer Beals, star of `The Bride.",You need not protect yourself from crime
+539,"falsify: The operator must first select the work to be done, put aside the tickets that indicate she performed the sewing appropriate for those bundles and should be paid at the specified rate for the job, open the appropriate bundles, and position the pieces to be joined on the sewing table in preparation for sewing.",Operators don't have to select the work that's to be done at any point.
+540,falsify: It is not clear how the shootdown order was communicated within NORAD.,It is crystal clear how the shootdown order was communicated within NORAD. 
+541,"falsify: Others are from families that are struggling to provide a healthy, happy environment but don't have the resources to make it possible.",Many are from families that have all of the resources they need and are not struggling with anything.
+542,falsify: Yeah on some of the songs yeah.,Yeah on all the songs.
+543,"falsify: These newest Scholars bring the number to ten--ten who, like Christa McAuliffe, will touch the future.",These ten criminals are on the lose.
+544,"falsify: (The computer age term,  spaghetti code,  derives from the same pasta-related idea as macaronic, but more obviously so.)",Spaghetti code is an example of tasty code
+545,"falsify: They enabled the passengers to gain critical information, including the news that two aircraft had slammed into the World Trade Center.",The passengers remained ignorant of this critical information.
+546,falsify: Did you ever see the ghost?,Did you ever see that scary house?
+547,"falsify: Britain and North America are not only literate, but  dictionarate. ",Britain and North America are illiterate and don't know how to use a dictionary.
+548,"falsify: Uh Asimov, he died about 8 years ago but I still find one or two of his that I hadn't read yet.",I've read everything that Asimov wrote.
+549,falsify: The Collins COBUILD English Language Dictionary of 1987 ( Cobuild ) boasts xxiv plus 1703 pages.,A total of 900 pages were included in the 1987 Collins COBUILD English Language Dictionary.
+550,falsify: It truly was my life in high school.,That wasn't how things were for me in high school.
+551,"falsify: Imaginative play, Vygotsky noted, also functions as a bridge from the concrete thought of the preschool and early school years to mature  adult thought, which can be totally free of real situations. ",Vygotsky noted that there is no bridge between concrete thought and mature adult thought.
+552,"falsify: Again, let me assure you that we would appreciate receiving one million dollars from you and each of our 161 alumni.",We would be very unhappy if you decided to give us one million dollars. 
+553,falsify: Writing containing such labored figures makes for hard reading.,Labored figures present no challenge in reading difficulty.
+554,falsify: All of the foregoing areas are supported by contributions from alumni and friends of the school,The mentioned areas are completely independent and have not garnered support from anyone.
+555,falsify: Do you enjoy--?,Are you annoyed?
+556,falsify: The young adults who leave Pleasant Run have those same feelings.,Pleasant Run does not impact young adults.
+557,falsify: There have been so many changes to the IUPUI campus and your department that you and your fellow graduates might not recognize them.,The IUPUI campus has not experienced any changes. 
+558,"falsify: .  Substantively, if not literally, she made a morox.",She didn't make a morox.
+559,"falsify: That's good, though, you need to, I guess.","That sucks, you know you don't have to do it."
+560,falsify: A proportionately large number of you responded to that survey.,Not a one of you participated in the study.
+561,"falsify: Within the system, there are others with similar mixed feelings, but by and large the system remains intact.",The system will break apart in future due to these mixed feelings. 
+562,"falsify: Chased him all the way up to the upstairs, I don't think the bird ever even pooped in the house not that we found--",The bird constantly pooped on the furniture.
+563,falsify: We need to talk to FAA.,We don't need to speak with FAA.
+564,"falsify: We need to tell 'em if this stuff is gonna keep on going, we need to take those fighters, put 'em over Manhattan.","We need to hold off on communicating to them, the last thing we need is fighter jets over Manhattan."
+565,"falsify: Perhaps the Proximity people thought that they had got round that little problem by giving the same definition for each of the items in the list; but we know that only very rarely are two synonyms bi-unique (which is another way of saying that if A = B, B does not necessarily always equal A), an ineluctable fact of language.",X and Y are always the exact same thing.
+566,"falsify: In one study, Lonigan and Whitehurst compared shared reading with teachers at preschool, shared reading with parents at home, and a combined condition.",The study was concerned with the amount of ice cream that a child could consume in a given time.
+567,"falsify: We didn't know as much about it as we do today, and were learning and adjusting to diabetes at the same time we were building our marriage.","At the same time we were building our marriage we were adjusting to diabetes, we know as much then as we do now."
+568,falsify: High demand variation similarly occurs during the beginning and end of a product life cycle.,High demand variation occurs only during the beginning of a product life cycle.
+569,falsify: I just kept reading until I finally had read almost every one of them.,I didn't read any of the books.
+570,"falsify: This startling news prompted the mission crew commander at NEADS to take immediate control of the airspace to clear a flight path for the Langley Okay, we're going to turn it . . . crank it up.",The commander didn't make a path to Langley at all.
+571,"falsify: 90 In order to understand how the two agencies interacted eight years later, we will review their missions, command and control structures, and working relationship on the morning of 9/11.","Reviewing their missions, command and control structures will not aid us in understanding their interactions."
+572,"falsify: Open the door, please.",Please shut the door.
+573,"falsify: Some maintained collaborative relationships with al Qaeda, but many disengaged entirely.",They all maintained relationships with al Qaeda.
+574,falsify: Thank you for your ongoing support of our great school!,"Our great school could care less about your support, we can manage without you and your donations."
+575,"falsify: And, as a Palestinian, he saw Israel as the top priority for the next stage.",He was an American.
+576,"falsify: Within the system, there are others with similar mixed feelings, but by and large the system remains intact.",There are no others within the system with mixed feelings. 
+577,falsify: Your contribution will be used to recruit and retain quality volunteers.,All donations go directly to a scholarship fund.
+578,"falsify: He appointed a new financial manager, whom his followers saw as miserly.","He fired his financial manager, who his followers believed to be too eager to part with money."
+579,"falsify: Increasingly, analysts and public policy makers discuss trade issue in terms of the emergence of a significant and growing inequality in compensation between production and nonsupervisory workers, on the one hand, and managerial, supervisory, or exempt employees and professionals on the other.",Trade issues are never discussed by analysts and public policy makers.
+580,"falsify: I think that was kind of hard for him, you know.",That was very easy for him to pull off.
+581,"falsify: Meanwhile, a manager from Boston Center reported that they had deciphered what they had heard in one of the first hijacker transmissions from American 11: Boston  Hey . . . you still there?",A manager from the Boston center said they could not understand anything they were hearing.
+582,"falsify: Exactly how a manager divides production between plants with different production costs and cycle times depends on the details of the situation, such as those presented in the cases above.",The division of production by a manager hinges purely on how they feel.
+583,"falsify: This means that after sewing a bundle of items of one color, an operator must not only change the needle thread but also put in a new bobbin for each new color of fabric.",Sewing a bundle of items of one color means the bobbin and thread doesn't have to be changed.
+584,"falsify: For example, one writer cites a preference for cunt over vagina , because of the latter's derivation from a Latin word meaning `sheath,' often sheath for a sword.)",Vagina comes from the Greek word for heaven.
+585,"falsify: But as Figure 7.9 suggests, a manufacturer can pay somewhat more to make certain units'those with high weekly variation in sales'in quick production lines and still reap a better return than it would by making all of the product in a less expensive, slower plant.",Manufacturers can't afford to take the risk of making products with high demand variation.
+586,"falsify: Specific cliches' working wife, working mother, house-wife , etc.'are discussed, with sober explanations of why they are offensive and with suggestions for suitable alternatives.",No ideas for other terminology to use was offered.
+587,falsify: (Careful feminist writers avoid unthinking use of imagery redolent of colonialism and militarism.),Feminist writers know exactly was is right and wrong
+588,"falsify: Indeed, Washington wore a dark brown suit, entirely made in America, for his first inaugural on April 30, 1789.",Washington's first inaugural was in December of 1789.
+589,falsify: Cathedral provided us with a good education and a great foundation for our futures.,The cathedral is not our alma mater. 
+590,"falsify: I haven't tried opium, but cannot imagine that Opium smells much like an opium den; and it is impossible to guess at what the millennium will smell like.","I've used the drug opium, and know that the perfume Opium smells like it. "
+591,falsify: We can support such a scholarship if you will give $25.00 to the English Alumni Scholarship Fund.,We can unconditionally support such a scholarship. 
+592,"falsify: However, it was seen at the time as a success.",It was deemed a failure at the time.
+593,"falsify: Because he knew little about the cattle business and cared less, he never got around to branding his stock.","Even though he knew little about cattle, he made sure to brand his stock."
+594,"falsify: The utopian communes of anarchists, socialists, and hippies, for example, have not even dented it.",The utopian communes have succeeded in denting it.
+595,falsify: Bin Ladin now had a vision of himself as head of an international jihad confederation.,Bin Laden thought of himself as an not influential on the global stage.
+596,"falsify: When we consider how much the set is on during school holidays and summer vacations, children spend more time watching TV than they do in any other waking activity, including going to school and interacting with family members or peers.",Spending time with family and friends is preferred to TV by children. 
+597,"falsify: To many, it is significant that the privilege of naming, granted to Adam, was denied to Eve.",No one regards Adam's privilege of naming to be significant.
+598,"falsify: And although the wages of nonsupervisory workers in retail have been and still are quite low,9 the compensation system for buyers provided substantial rewards for favorable results.",Retail workers pay continues to improve beyond the median. 
+599,"falsify: L uses a version of what I call the  Moo Goo Gai Pan  or  Ah-oo-gah  system, favored by newspapers because, though primitive, it is virtually  unlike the W system, which requires even a casual user to deal with distinctions between a ??, \?\, ?¤ and a\?",The L and W are almost identical.
+600,"falsify: Mr. Joseph Hymes'  Do Mistake'Learn Better  [XV,1] brought to mind the time a Japanese acquaintance told me of a friend of hers who decided to tackle the original English version of three books she had enjoyed while in Japan.",The books were first printed in Japanese.
+601,"falsify: '  Perhaps it was so called because it opens in morning and closes at night, or because of its eyelike shape.",Perhaps it was called so because of its arm like shape.
+602,falsify: Several are noted ,Nothing has been recorded.
+603,falsify: Return the completed card with your check by October 15 to receive an invitation to a special artist dinner on November 8.,Sent the check by November 28th and you will receive a special letter.
+604,"falsify:  Oh, you want a cracker! ",I know. You don't want a cracker.
+605,"falsify: And he said, What's going on?",He did not even care to ask what was happening.
+606,falsify: And how they use to take their lunches to school and some of the things they took for lunch like fatback meat biscuits and--.,They would buy their lunches from the cafeteria rather than bring them.
+607,"falsify: On a farm and uh, she has some wild and crazy stories that she sat and shared with us.",She had no stories to tell us. 
+608,"falsify: Um, as a child, what did you like most about the story, as opposed to what you would like most about it now?","You never read this book, did you?"
+609,"falsify: These include impacts on its revenues (prices and sales), cost structures, and profitability.",Cost structures will not be covered.
+610,"falsify: Worst of all, Wanda had to deal with this worsening problem as she was trying to succeed at her new job.",Wanda is able to cope with the problem because she was found success at work.
+611,"falsify: Mr. Delaney is a victim of the confusion so often experienced by Latin students between the gerund, which is a neuter noun, active in meaning, and the gerundive, which is an adjective of similar form, but passive in meaning.",In Latin garund is a passive verb.
+612,"falsify: The airlines bore responsibility, too.","The airlines were not responsible, the FAA was."
+613,"falsify: Um, but he'd bend down and stay down to help that dog.",He ran away from the scary dog.
+614,falsify: Every Japan veteran has his list of favorite mistakes.,No vet cares a wit about this.
+615,falsify: Some of Bin Ladin's close comrades were more peers than subordinates.,All of Bin Ladin's comrades were fully subordinate to him.
+616,"falsify: But the second reads like gobbledygook while the first tries to provide some basic notion of what is involved and where it is applied while, at the same time, gently notifying users that they are going to have to seek elsewhere for a proper definition, the understanding of which requires far more backgound in mathematics and logic than can be assumed in the average user.",The second is easy for everyone to understand.
+617,"falsify: Um, what kind of things did you remember reading when you started to read?",Can you recall how many books you read in the first year?
+618,falsify: We are very aware of the important role financial resources will playas we look to the future.,We don't know about financial resources.
+619,"falsify: In 1998, CCI served 31,484 individuals right in their own backyards.","In 1998, CCI didn't serve anyone."
+620,"falsify: Anyway, the studio itself was kind a dingy, it wasn't very professional.","It was a state-of-the-art, completely professional studio. "
+621,"falsify: She learns that you can consider possibilities and choose among them, thereby controlling eventual outcomes.",It is impossible to choose possibilities and further control them.
+622,falsify: The Grill will feature enough activities that you and your kids will have a tough time deciding what to do.,There are almost no activities to choose from
+623,falsify: I am pleased to tell you that we have had a positive response to the letter.,We have had a really negative response to the letter. 
+624,falsify: You never call.,You rarely call. 
+625,"falsify: With your personal commitment, the IUPUI Chancellor will be able to act sooner and more effectively when special opportunities arise.","The IUPUI Chancellor can't act when great opportunities arise, can he?"
+626,"falsify: That war, like others, produced disgruntled veterans and those more adventurous or more restless after military service.","Veterans were happy and more adventurous after that war, just like others."
+627,falsify: Please call Sharyl Hamblen at 921-2049 or Kim Gattle at 921-2056 if you have any questions.,Call Sharyl or Ken if you want to talk about your donation.
+628,"falsify: The people of Batavia on the Hopi Reservation in northern Arizona were motivated by their desire to rekindle traditional cultural values among younger generations when, with the help of Futures for Children, they decided to restore traditional terrace gardens at the edge of their village -gardens that had been abandoned for decades.","Gardens were not abandoned for decades, people take care of it."
+629,falsify: The Salvation Army received a note not long ago from a woman who makes contributions to our programs from time to time.,A woman who has never made a contribution to us here at the Salvation Army sent us a nasty email.
+630,falsify: Basic products are prime candidates for lean retailing because such a product style remains in a retailer and apparel company's product line over much of the selling season and often over several years.,A basic product can't last long within a product line because customers get bored with it.
+631,"falsify: Lockean ideas provided the footing for American behaviorism, launched by John Watson in the early 1900s and built by B. F. Skinner into a powerful mid-century theoretical force heralding the supremacy of environment in its belief that behavior is shaped by external stimuli.",Lockean ideas had nothing to do with the footing of American behaviorism. 
+632,"falsify: I said to him, Why?",I didn't question the man or his reasons.
+633,falsify: How old were you when she shared this story with you?,"She never told you the story then, eh?"
+634,"falsify: About this time, Card, the lead Secret Service agent, the President's military aide, and the pilot were conferring on a possible destination for Air Force One.",There were no plans to fly anywhere.
+635,"falsify: As early as 1 1/2 to 2 years, children begin to talk about the past, guided by adults who prompt them and expand on their fragmented recollections.","Even when prompted by adults who are guiding them, children will never talk about the past. "
+636,"falsify: Lower-level officials improvised-for example, the FAA's Boston Center bypassed the chain of command and directly contacted NEADS after the first hijacking.",The chain of command was religiously followed and the FAA did not contact NEADS directly.
+637,"falsify: To recognize donors who have achieved this level, Dean Lefstein has now established the Black Cane Society.",The Black Cane Society is not open to donations.  
+638,falsify: The opportunities presented by the Ruth Lilly Outdoor Center offer these kids learning experiences not available in the inner-city environment.,Kids can learn everything in the inner-city environment. 
+639,"falsify: They were scary, throwing a child in the oven and all that sort of thing!",The child being thrown in the pond was so silly.
+640,"falsify: The pilots knew their mission was to divert aircraft, but did not know that the threat came from hijacked airliners.","The pilots were on high alert, due to the hijacked aircraft."
+641,"falsify: Woolf identified but did not describe  a woman's sentence  and, in the same text, wrote of women ancestors (for example, Shakespeare's putative sister) who was silent, silenced by a society dominated by men.",Shakespeare wrote about women's dominance in human society.
+642,falsify: The Coming Competitive Landscape,The Past Non-Competitive Landscape
+643,falsify: -The new Masters in Planning degree;,The Masters of Planning degree has been around for a very long time.
+644,"falsify: An English authority on dictionaries, James Root Hulbert, says that The Concise Oxford is the best for literary use in Britain and Chambers the best  for general British use. ",The consise Oxford dictionary is the best one in all circumstances. 
+645,"falsify: The President said he remembered such a conversation, and that it reminded him of when he had been an interceptor pilot.",The President said nothing about the conversation in question.
+646,"falsify: He worked, he's a teacher, and at that time he worked as the principal of that school, of that school, because it was a, like a high school, there was, from first (grade) to high school.","The man is a stripper, and a damn good one at that."
+647,falsify: The air defense of America began with this call.,America's air defense had already begun before the call was made.
+648,falsify: Who would have been telling you those stories?,Who did you tell those stories to?
+649,"falsify: The recorder captured the sounds of loud thumps, crashes, shouts, and breaking glasses and plates.",The recorder didn't capture any of the sounds.
